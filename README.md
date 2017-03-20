@@ -38,3 +38,15 @@ Vulnhub – https://www.vulnhub.com/ – Vulnhub provides intentionally vulnerab
 Wall of Sheep – http://www.wallofsheep.com/ – Site that sells all kinds of hacking gadgets, lockpicks, RFID readers and etc. Very cool stuff.
 
 WarBerryPi – https://github.com/secgroundzero/warberry – Scripts for running a number of security tools on the Raspberry Pi.
+
+# Sites
+
+https://picateshackz.com
+
+https://cyberaces.com
+
+https://www.infosecinstitute.com
+
+https://www.sans.org
+
+
