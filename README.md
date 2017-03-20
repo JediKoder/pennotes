@@ -41,8 +41,6 @@ WarBerryPi – https://github.com/secgroundzero/warberry – Scripts for running
 
 # Sites
 
-https://picateshackz.com
-
 https://cyberaces.com
 
 https://www.infosecinstitute.com
