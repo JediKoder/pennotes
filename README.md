@@ -47,4 +47,20 @@ https://www.infosecinstitute.com
 
 https://www.sans.org
 
+# Download firmwarez
+
+http://www.zyxel.com/support/download_landing.shtml
+
+https://www.cisco.com/c/en/us/support/index.html
+
+http://www.linksys.com/us/support/
+
+https://www.netgear.com/support/
+
+http://www.trendnet.com/support/
+
+http://www.belkin.com/us/support
+
+http://www.zyxel.com/support/download_landing.shtml
+
 
